@@ -1,0 +1,10 @@
+*dynaline.txt*  Dynamic Statusline
+
+Author:  Pirey <https://github.com/pirey/>
+License: Same terms as Vim itself (see |license|)
+
+SUMMARY                                         *dynaline*
+
+See README at https://github.com/pirey/dynaline.vim
+
+vim:tw=78:et:ft=help:norl:
